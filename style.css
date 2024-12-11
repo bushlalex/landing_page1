@@ -17,7 +17,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 800px;
+    width: 95%;
     
     
 }
@@ -52,7 +52,7 @@ a {
 
 .inmainlane1 {
     display: flex;
-    width: 800px;            
+    width: 95%;            
 }
 
 .text1 {
@@ -101,7 +101,7 @@ button {
 
 .inmainlane2 {
     flex-direction: column;
-    width: 800px;
+    width: 95%;
     display: flex;
     align-items: center;
     gap: 30px;    
@@ -115,7 +115,7 @@ button {
 
 .box {
     display: flex;
-    width: 800px;
+    width: 95%;
     justify-content: space-between;
 
 }
@@ -155,7 +155,7 @@ img {
 }
 
 .inmainlane3 {
-    width: 800px;
+    width: 95%;
     display: flex;
     flex-direction: column;
     gap: 10px
@@ -183,7 +183,7 @@ img {
 }
 
 .inmainlane4 {
- width: 800px;
+ width: 95%;
  justify-content: center;
  
 }
@@ -194,7 +194,7 @@ img {
     align-items: center;
     background: #3882F6;
     padding: 30px;
-    gap: 330px;        
+    gap: 560px;        
 }
 
 .text41 {
@@ -234,7 +234,7 @@ img {
 
 .inmainlane5 {
     display: flex;
-    width: 800px;
+    width: 95%;
     justify-content: center;   
 }
 
@@ -242,6 +242,8 @@ p {
     color: white;
     font-size: 18px;
 }
+
+
 
 
 
